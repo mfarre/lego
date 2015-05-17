@@ -1,0 +1,28 @@
+2015-05-17 13:18:43.250 Workshop[6657:388945] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/miquelangelfarreguiu/Library/Developer/CoreSimulator/Devices/FC2F6B63-497F-47F0-860A-37EEE38CD0F4/data/Containers/Data/Application/A3C89891-C139-4B7F-BA82-AD8BD0679CB6/Library/Cookies/Cookies.binarycookies
+2015-05-17 13:18:43.723 Workshop[6657:388945] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 13:18:43.724 Workshop[6657:388945] Multi-tasking -> Device: YES, App: YES
+2015-05-17 13:18:43.738 Workshop[6657:388945] Unlimited access to network resources
+2015-05-17 13:18:43.748 Workshop[6657:388945] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-17 13:18:44.492 Workshop[6657:388945] Resetting plugins due to page load.
+2015-05-17 13:18:44.790 Workshop[6657:388945] Finished load of: file:///Users/miquelangelfarreguiu/Library/Developer/CoreSimulator/Devices/FC2F6B63-497F-47F0-860A-37EEE38CD0F4/data/Containers/Bundle/Application/C9EBC4E0-CCFA-429B-BC1D-A4527FB94227/Workshop.app/www/index.html
+2015-05-17 13:24:13.671 Workshop[6808:391304] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/miquelangelfarreguiu/Library/Developer/CoreSimulator/Devices/FC2F6B63-497F-47F0-860A-37EEE38CD0F4/data/Containers/Data/Application/B55E6DB2-2C6F-4266-91B1-CC53DE7CEC4E/Library/Cookies/Cookies.binarycookies
+2015-05-17 13:24:13.771 Workshop[6808:391304] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 13:24:13.772 Workshop[6808:391304] Multi-tasking -> Device: YES, App: YES
+2015-05-17 13:24:13.774 Workshop[6808:391304] Unlimited access to network resources
+2015-05-17 13:24:13.777 Workshop[6808:391304] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-17 13:24:14.083 Workshop[6808:391304] Resetting plugins due to page load.
+2015-05-17 13:24:14.294 Workshop[6808:391304] Finished load of: file:///Users/miquelangelfarreguiu/Library/Developer/CoreSimulator/Devices/FC2F6B63-497F-47F0-860A-37EEE38CD0F4/data/Containers/Bundle/Application/58A48941-79F4-4ED9-8109-1DAE3A5D9B0C/Workshop.app/www/index.html
